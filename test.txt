@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 new line
+=======
+New line in beach branch
+>>>>>>> beach
